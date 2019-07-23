@@ -13,6 +13,6 @@ All the necessary files are included in this repository. Data files are copies o
 * data/seattle/listings.csv - listings data for Seattle
 * data/data_uri.txt - links to the data sources
 # Results
-The main findings of the analysis can be found in the notebook and in a post here.
+The main findings of the analysis can be found in the notebook and in a post [here](https://medium.com/@alexanderkirko/cutting-your-way-to-basic-results-through-airbnb-data-6a47b213b819).
 # Licensing, Authors, Acknowledgements
 You are free to use the code as you like. Kaggle data can be used as per the licnesing rules out lines here: [Seattle](hhttps://www.kaggle.com/airbnb/seattle/data) and [Boston](https://www.kaggle.com/airbnb/boston)
